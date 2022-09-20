@@ -5,7 +5,10 @@
 </div>
 
 ## About Me
-
+<div>
+I am passionate about programming
+I am currently learning ASP .NET Core technology and that is where I want to find a future job
+</div>
 
 ## Skills
 
@@ -15,6 +18,11 @@
 <img alt="git logo" align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25" />
 <img alt="markdown logo" align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="25" />
 <img alt="markdown logo" align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+## Socials
+<div>
+    
 </div>
 <!--
 **Kamil-Matusz/Kamil-Matusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,11 @@
-### Hi there 👋
 
 <div align="center">
     Hello, I'm Kamil Matusz
     Welcome in my GitHub Profile!
 </div>
+
+## About Me
+
 
 ## Skills
 
@@ -12,6 +14,7 @@
 <img alt="dotnet logo" align="center" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="25" />
 <img alt="git logo" align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25" />
 <img alt="markdown logo" align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="25" />
+<img alt="markdown logo" align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 <!--
 **Kamil-Matusz/Kamil-Matusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -18,8 +18,9 @@ I am currently learning ASP .NET Core technology and that is where I want to fin
 <img alt="git logo" align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25" />
 <img alt="markdown logo" align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="ms sql logo" align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)" />
-<img alt="markdown logo" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" />
-<img alt="markdown logo" align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=blue" height="25" />
+<img alt="html logo" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" />
+<img alt="css logo" align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=blue" height="25" />
+<img alt="javascript logo" align="center" src="<img alt="markdown logo" align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=blue" height="25" />" height="25" />
 </div>
 
 ## Socials

@@ -10,15 +10,17 @@ I am passionate about programming
 I am currently learning ASP .NET Core technology and that is where I want to find a future job
 </div>
 
-## Skills
-
-<div>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,java" />
-</div>
-
+## Skills & Technologies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Matusz&langs_count=8&theme=tokyonight" alt="Language stats.">
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,html,css,js,bootstrap,mysql,postgres" />
+  </a>
+</p>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Matusz&langs_count=10&theme=tokyonight" alt="Language stats.">
 </div>
 
 ## Socials

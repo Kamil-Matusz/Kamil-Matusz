@@ -13,9 +13,7 @@ I am currently learning ASP .NET Core technology and that is where I want to fin
 ## Skills
 
 <div>
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,git,java" />
 </div>
 
 

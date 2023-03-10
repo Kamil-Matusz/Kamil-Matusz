@@ -23,6 +23,9 @@ I am currently learning ASP .NET Core technology and that is where I want to fin
 <img alt="javascript logo" align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" height="25" />
 </div>
 
+## My stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamil-Matusz)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Socials
 <div>
  Linkedin : https://www.linkedin.com/in/kamil-matusz/ <br/>

@@ -13,17 +13,11 @@ I am currently learning ASP .NET Core technology and that is where I want to fin
 ## Skills
 
 <div>
-<img alt="csharp logo" align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25" />
-<img alt="dotnet logo" align="center" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="25" />
-<img alt="git logo" align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25" />
-<img alt="markdown logo" align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img alt="ms sql logo" align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)" />
-<img alt="html logo" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" />
-<img alt="css logo" align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=blue" height="25" />
-<img alt="javascript logo" align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" height="25" />
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br/>
 </div>
 
-### You can check my profile stats here.😊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Matusz&langs_count=8&theme=tokyonight" alt="Language stats.">

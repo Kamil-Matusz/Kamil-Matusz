@@ -20,7 +20,7 @@ I am currently learning ASP .NET Core technology and that is where I want to fin
 </p>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Matusz&langs_count=10&theme=tokyonight" alt="Language stats.">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Matusz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## Socials

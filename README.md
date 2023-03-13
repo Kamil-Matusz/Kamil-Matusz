@@ -15,12 +15,12 @@ I am currently learning ASP .NET Core technology and that is where I want to fin
 <div align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,html,css,js,bootstrap,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,java,html,css,js,bootstrap,mysql,postgres" />
   </a>
 </p>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Matusz&langs_count=10&theme=tokyonight" alt="Language stats.">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Matusz&langs_count=6&theme=tokyonight" alt="Language stats.">
 </div>
 
 ## Socials

@@ -27,6 +27,9 @@ I am currently learning ASP .NET Core technology and that is where I want to fin
 <div>
  Linkedin : https://www.linkedin.com/in/kamil-matusz/ <br/>
 </div>
+<div>
+ Linkedin : matuszkamil076@gmail.com <br/>
+</div>
 <!--
 **Kamil-Matusz/Kamil-Matusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

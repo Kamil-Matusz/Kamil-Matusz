@@ -15,7 +15,7 @@ I am currently learning ASP .NET Core technology and that is where I want to fin
 <div align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,postman,git,java,html,css,js,bootstrap,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,postman,git,java,html,css,js,ts,bootstrap,mysql,postgres,azure" />
   </a>
 </p>
 </div>

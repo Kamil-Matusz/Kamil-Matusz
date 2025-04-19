@@ -12,16 +12,11 @@ I am currently learning ASP .NET Core technology and that is where I want to fin
 
 ## Skills & Technologies
 
-<div align="center">
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,postman,git,java,spring,html,css,js,ts,bootstrap,vue,mysql,postgres,mongodb,azure" />
-  </a>
-</p>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Matusz&langs_count=8&theme=tokyonight" alt="Language stats.">
-</div>
+**Back-end:** Java, Spring, C#, .NET
+**Frond-end:** JavaScript, TypeScript, Vue
+**Containerization:** Docker, Kubernetes
+**Cloud:* Azure
+**Database:** MySQL, PostgreSQL, MongoDB
 
 ## Socials
 <div>

@@ -1,25 +1,18 @@
+## Hi there 👋
+I'm Kamil,  
+Junior Back-end Developer
 
-<div align="center">
-    Hello, I'm Kamil Matusz
-    Welcome in my GitHub Profile!
-</div>
+## 🛠️ Tech Stack
+🔹 **Back-end:** Java, Spring, C#, .NET    
+🔹 **Front-end:** JavaScript, TypeScript, Vue    
+🔹 **Containerization:** Docker, Kubernetes      
+🔹 **Cloud:** Azure   
+🔹 **Database:** MySQL, PostgreSQL, MSSQL, MongoDB 
 
-## About Me
-<div>
-I am passionate about programming
-I am currently learning ASP .NET Core technology and that is where I want to find a future job
-</div>
+## 📜 Certifications  
+- 🏆 Azure Fundamentals (AZ-900)
 
-## Skills & Technologies
-**Back-end:** Java, Spring, C#, .NET  
-**Front-end:** JavaScript, TypeScript, Vue  
-**Containerization:** Docker, Kubernetes  
-**Cloud:** Azure  
-**Database:** MySQL, PostgreSQL, MongoDB  
-
- <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Matusz&langs_count=8&theme=tokyonight" alt="Language stats.">
- </div>
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Matusz&layout=compact)
 
 ## Socials
 <div>

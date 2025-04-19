@@ -11,14 +11,15 @@ I am currently learning ASP .NET Core technology and that is where I want to fin
 </div>
 
 ## Skills & Technologies
-
-## Skills & Technologies
-
 **Back-end:** Java, Spring, C#, .NET  
 **Front-end:** JavaScript, TypeScript, Vue  
 **Containerization:** Docker, Kubernetes  
 **Cloud:** Azure  
 **Database:** MySQL, PostgreSQL, MongoDB  
+
+ <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Matusz&langs_count=8&theme=tokyonight" alt="Language stats.">
+ </div>
 
 ## Socials
 <div>

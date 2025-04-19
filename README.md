@@ -12,21 +12,13 @@ I am currently learning ASP .NET Core technology and that is where I want to fin
 
 ## Skills & Technologies
 
-### Back-end
-Java, Spring, C#, .NET
+## Skills & Technologies
 
-### Front-end
-JavaScript, TypeScript, Vue
-
-### Containerization
-Docker, Kubernetes
-
-### Cloud
-Azure
-
-### Database
-MySQL, PostgreSQL, MongoDB
-
+**Back-end:** Java, Spring, C#, .NET  
+**Front-end:** JavaScript, TypeScript, Vue  
+**Containerization:** Docker, Kubernetes  
+**Cloud:** Azure  
+**Database:** MySQL, PostgreSQL, MongoDB  
 
 ## Socials
 <div>

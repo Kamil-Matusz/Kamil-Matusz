@@ -29,6 +29,8 @@ Junior Back-end Developer
     <img alt="Asklepios" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamil-Matusz&repo=Asklepios&theme=transparent" style="width: 400px; margin-bottom: 20px; display: block;"/>
   </a>
 
+  </br>
+
   <a href="https://github.com/Kamil-Matusz/Shot-Blasting-Machines">
     <img alt="Shot-Blasting-Machines" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamil-Matusz&repo=Shot-Blasting-Machines&theme=transparent" style="width: 400px; margin-bottom: 20px; display: block;"/>
   </a>

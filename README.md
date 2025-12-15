@@ -13,9 +13,9 @@ Junior Back-end Developer
 - 🏆 Azure Fundamentals (AZ-900)
 
 ## Most Used Languages
-<div align="center">
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Matusz&layout=compact&langs_count=8&theme=tokyonight)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Matusz&layout=compact&langs_count=8&theme=tokyonight" alt="Language Stats"/>
+</p>
 
 ## Socials
 <div>

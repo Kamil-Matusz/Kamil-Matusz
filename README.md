@@ -15,32 +15,20 @@ Junior Back-end Developer
 
 - 🏆 Azure Fundamentals (AZ-900)
 
-## 📊 Most Used Languages
+## 📊 My profile stats
 
-<table>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Java-45%25-ED8B00?style=flat&logo=openjdk&logoColor=white" /><br/>
-      <sub>Java</sub><br/>
-      <img src="https://progress-bar.xyz/45/?width=140&color=ED8B00" />
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/C%23-25%25-239120?style=flat&logo=csharp&logoColor=white" /><br/>
-      <sub>C#</sub><br/>
-      <img src="https://progress-bar.xyz/25/?width=140&color=239120" />
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/TypeScript-20%25-3178C6?style=flat&logo=typescript&logoColor=white" /><br/>
-      <sub>TypeScript</sub><br/>
-      <img src="https://progress-bar.xyz/20/?width=140&color=3178C6" />
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/JavaScript-10%25-F7DF1E?style=flat&logo=javascript&logoColor=black" /><br/>
-      <sub>JavaScript</sub><br/>
-      <img src="https://progress-bar.xyz/10/?width=140&color=F7DF1E" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/Kamil-Matusz">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kamil-Matusz&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Kamil-Matusz">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamil-Matusz&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamil-Matusz&theme=slateorange" />
+  </a>
+</div>
 
 ## 🚀 Projects
 

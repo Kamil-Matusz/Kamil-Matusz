@@ -15,21 +15,6 @@ Junior Back-end Developer
 
 - 🏆 Azure Fundamentals (AZ-900)
 
-## 📊 My profile stats
-
-<div align="center">
-  <a href="https://github.com/Kamil-Matusz">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kamil-Matusz&theme=rising-sun&hide_border=true&exclude_days=Sun" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Kamil-Matusz">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamil-Matusz&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamil-Matusz&theme=slateorange" />
-  </a>
-</div>
-
 ## 🚀 Projects
 
 <table>
@@ -54,6 +39,21 @@ Junior Back-end Developer
     </td>
   </tr>
 </table>
+
+## 📊 My profile stats
+
+<div align="center">
+  <a href="https://github.com/Kamil-Matusz">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kamil-Matusz&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Kamil-Matusz">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamil-Matusz&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamil-Matusz&theme=slateorange" />
+  </a>
+</div>
 
 ## 🌐 Socials
 

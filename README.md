@@ -21,7 +21,7 @@ Junior Back-end Developer
   <tr>
     <td width="50%">
       <h3>🏥 Asklepios</h3>
-      <p>Healthcare management system built with modern back-end architecture using Java & Spring.</p>
+      <p>Healthcare management system built with modern back-end architecture using .NET & Vue</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
@@ -30,7 +30,7 @@ Junior Back-end Developer
     </td>
     <td width="50%">
       <h3>⚙️ Shot-Blasting-Machines</h3>
-      <p>Industrial machinery management and monitoring application built with .NET.</p>
+      <p>Industrial machinery management and monitoring application built with Spring & Vue</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />

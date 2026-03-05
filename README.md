@@ -17,9 +17,11 @@ Junior Back-end Developer
 
 ## 🚀 Projects
 
+## 🚀 Projects
+
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🏥 Asklepios</h3>
       <p>Healthcare management system built with modern back-end architecture using .NET & Vue</p>
       <p>
@@ -29,7 +31,7 @@ Junior Back-end Developer
       </p>
       <a href="https://github.com/Kamil-Matusz/Asklepios">→ View on GitHub</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>⚙️ Shot-Blasting-Machines</h3>
       <p>Industrial machinery management and monitoring application built with Spring & Vue</p>
       <p>
@@ -41,7 +43,7 @@ Junior Back-end Developer
     </td>
   </tr>
   <tr>
-    <td width="100%">
+    <td width="50%" valign="top">
       <h3>🏗️ CleanArchitecture</h3>
       <p>Enterprise-level template following Clean Architecture principles, DDD, and CQRS patterns</p>
       <p>
@@ -51,6 +53,8 @@ Junior Back-end Developer
       </p>
       <a href="https://github.com/Kamil-Matusz/CleanArchitecture">→ View on GitHub</a>
     </td>
+    <td width="50%" valign="top">
+      </td>
   </tr>
 </table>
 

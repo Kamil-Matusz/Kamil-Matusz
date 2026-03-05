@@ -17,8 +17,6 @@ Junior Back-end Developer
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -48,8 +46,7 @@ Junior Back-end Developer
       <p>Enterprise-level template following Clean Architecture principles, DDD, and CQRS patterns</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
       </p>
       <a href="https://github.com/Kamil-Matusz/CleanArchitecture">→ View on GitHub</a>
     </td>

@@ -20,11 +20,13 @@ Junior Back-end Developer
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔗 certiBlock</h3>
+      <h3>🔗 CertiBlock</h3>
       <p>Blockchain-based system for secure digital certificate issuance and verification, ensuring data integrity</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Blockchain-333333?style=flat&logo=ethereum&logoColor=white" />
       </p>
       <a href="https://github.com/Kamil-Matusz/certiBlock">→ View on GitHub</a>

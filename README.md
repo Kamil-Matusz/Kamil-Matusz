@@ -20,6 +20,27 @@ Junior Back-end Developer
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🔗 certiBlock</h3>
+      <p>Blockchain-based system for secure digital certificate issuance and verification, ensuring data integrity</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blockchain-333333?style=flat&logo=ethereum&logoColor=white" />
+      </p>
+      <a href="https://github.com/Kamil-Matusz/certiBlock">→ View on GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ CleanArchitecture</h3>
+      <p>Enterprise-level template following Clean Architecture principles, DDD, and CQRS patterns</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+      </p>
+      <a href="https://github.com/Kamil-Matusz/CleanArchitecture">→ View on GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🏥 Asklepios</h3>
       <p>Healthcare management system built with modern back-end architecture using .NET & Vue</p>
       <p>
@@ -39,19 +60,6 @@ Junior Back-end Developer
       </p>
       <a href="https://github.com/Kamil-Matusz/Shot-Blasting-Machines">→ View on GitHub</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏗️ CleanArchitecture</h3>
-      <p>Enterprise-level template following Clean Architecture principles, DDD, and CQRS patterns</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-      </p>
-      <a href="https://github.com/Kamil-Matusz/CleanArchitecture">→ View on GitHub</a>
-    </td>
-    <td width="50%" valign="top">
-      </td>
   </tr>
 </table>
 

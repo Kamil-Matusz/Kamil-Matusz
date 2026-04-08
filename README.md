@@ -6,7 +6,7 @@ Junior Back-end Developer
 ## 🛠️ Tech Stack
 
 🔹 **Back-end:** Java, Spring, C#, .NET  
-🔹 **Front-end:** JavaScript, TypeScript, Vue  
+🔹 **Front-end:** JavaScript, TypeScript, Vue.js, React     
 🔹 **Containerization:** Docker, Kubernetes  
 🔹 **Cloud:** Azure  
 🔹 **Database:** MySQL, PostgreSQL, MSSQL, MongoDB  

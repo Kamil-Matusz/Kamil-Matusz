@@ -15,6 +15,27 @@ Junior Back-end Developer
 
 - 🏆 Azure Fundamentals (AZ-900)
 
+## 🤖 AI & Automation
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🧠 Claude Code Skills</h3>
+      <p>Custom skills for Claude Code automating code review and pre-push validation in Spring Boot microservices</p>
+      <ul>
+        <li><b>gateway-mapping-check</b> — deterministic pre-push gate validating controller endpoints against API gateway <code>values.yaml</code></li>
+        <li><b>owasp-review</b> — OWASP Top 10 review with fast diff mode (CI-friendly PASS/FAIL verdict) and full-audit mode</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white" />
+      </p>
+      <a href="https://github.com/Kamil-Matusz/skills">→ View on GitHub</a>
+    </td>
+  </tr>
+</table>
+
 ## 🚀 Projects
 
 <table>

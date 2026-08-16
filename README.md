@@ -19,12 +19,8 @@ Junior Back-end Developer
 <table>
   <tr>
     <td width="100%" valign="top">
-      <h3>🧠 Claude Code Skills</h3>
-      <p>Custom skills for Claude Code automating code review and pre-push validation in Spring Boot microservices</p>
-      <ul>
-        <li><b>gateway-mapping-check</b> — deterministic pre-push gate validating controller endpoints against API gateway <code>values.yaml</code></li>
-        <li><b>owasp-review</b> — OWASP Top 10 review with fast diff mode (CI-friendly PASS/FAIL verdict) and full-audit mode</li>
-      </ul>
+      <h3>🧠 Skills</h3>
+      <p>Collection of custom skills extending AI coding agents with project-specific knowledge, automated code review and repeatable development workflows</p>
       <p>
         <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />

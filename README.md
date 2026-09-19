@@ -35,20 +35,8 @@ Junior Back-end Developer
 ## 🚀 Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔗 CertiBlock</h3>
-      <p>Blockchain-based system for secure digital certificate issuance and verification, ensuring data integrity</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blockchain-333333?style=flat&logo=ethereum&logoColor=white" />
-      </p>
-      <a href="https://github.com/Kamil-Matusz/certiBlock">→ View on GitHub</a>
-    </td>
-    <td width="50%" valign="top">
+    <tr>
+    <td colspan="2" width="100%" valign="top">
       <h3>⛽ PetroTrend</h3>
       <p>Fuel price tracking application (ON, PB95, PB98, LPG) with a REST API and a dashboard styled after a roadside station price pylon</p>
       <p>
@@ -61,6 +49,20 @@ Junior Back-end Developer
       </p>
       <a href="https://github.com/Kamil-Matusz/PetroTrend">→ View on GitHub</a> ·
       <a href="https://mango-desert-058d15b03.5.azurestaticapps.net/notowania">→ Live demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔗 CertiBlock</h3>
+      <p>Blockchain-based system for secure digital certificate issuance and verification, ensuring data integrity</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blockchain-333333?style=flat&logo=ethereum&logoColor=white" />
+      </p>
+      <a href="https://github.com/Kamil-Matusz/certiBlock">→ View on GitHub</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏗️ CleanArchitecture</h3>

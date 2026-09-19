@@ -49,6 +49,20 @@ Junior Back-end Developer
       <a href="https://github.com/Kamil-Matusz/certiBlock">→ View on GitHub</a>
     </td>
     <td width="50%" valign="top">
+      <h3>⛽ PetroTrend</h3>
+      <p>Fuel price tracking application (ON, PB95, PB98, LPG) with a REST API and a dashboard styled after a roadside station price pylon</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+      </p>
+      <a href="https://github.com/Kamil-Matusz/PetroTrend">→ View on GitHub</a> ·
+      <a href="https://mango-desert-058d15b03.5.azurestaticapps.net/notowania">→ Live demo</a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🏗️ CleanArchitecture</h3>
       <p>Enterprise-level template following Clean Architecture principles, DDD, and CQRS patterns</p>
       <p>

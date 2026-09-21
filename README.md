@@ -5,11 +5,16 @@ Junior Back-end Developer
 
 ## 🛠️ Tech Stack
 
-🔹 **Back-end:** Java, Spring, C#, .NET  
-🔹 **Front-end:** JavaScript, TypeScript, Vue.js, React     
-🔹 **Containerization:** Docker, Kubernetes  
-🔹 **Cloud:** Azure  
-🔹 **Database:** MySQL, PostgreSQL, MSSQL, MongoDB  
+🔹 **Back-end:** <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet" height="42" alt="Java, Spring, C#, .NET" />
+
+🔹 **Front-end:** <img src="https://skillicons.dev/icons?i=js,ts,vue,react" height="42" alt="JavaScript, TypeScript, Vue.js, React" />
+
+🔹 **Containerization:** <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="42" alt="Docker, Kubernetes" />
+
+🔹 **Cloud:** <img src="https://skillicons.dev/icons?i=azure" height="42" alt="Azure" />
+
+🔹 **Database:** <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="42" alt="MySQL, PostgreSQL, MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="42" alt="Microsoft SQL Server" />
 
 ## 📜 Certifications
 

@@ -5,16 +5,16 @@ Junior Back-end Developer
 
 ## 🛠️ Tech Stack
 
-🔹 **Back-end:** <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet" height="42" alt="Java, Spring, C#, .NET" />
+🔹 **Back-end:** <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet" height="42" align="middle" alt="Java, Spring, C#, .NET" />
 
-🔹 **Front-end:** <img src="https://skillicons.dev/icons?i=js,ts,vue,react" height="42" alt="JavaScript, TypeScript, Vue.js, React" />
+🔹 **Front-end:** <img src="https://skillicons.dev/icons?i=js,ts,vue,react" height="42" align="middle" alt="JavaScript, TypeScript, Vue.js, React" />
 
-🔹 **Containerization:** <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="42" alt="Docker, Kubernetes" />
+🔹 **Containerization:** <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="42" align="middle" alt="Docker, Kubernetes" />
 
-🔹 **Cloud:** <img src="https://skillicons.dev/icons?i=azure" height="42" alt="Azure" />
+🔹 **Cloud:** <img src="https://skillicons.dev/icons?i=azure" height="42" align="middle" alt="Azure" />
 
-🔹 **Database:** <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="42" alt="MySQL, PostgreSQL, MongoDB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="42" alt="Microsoft SQL Server" />
+🔹 **Database:** <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="42" align="middle" alt="MySQL, PostgreSQL, MongoDB" />
+                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="42" align="middle" alt="Microsoft SQL Server" />
 
 ## 📜 Certifications
 

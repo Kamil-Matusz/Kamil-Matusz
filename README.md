@@ -24,7 +24,7 @@ Junior Back-end Developer
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Claude Code Skills</h3>
+      <h3>🧠 Skills</h3>
       <p>Custom skills that extend AI coding agents with project-specific knowledge, automated code review and repeatable development workflows</p>
       <p>
         <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude" />

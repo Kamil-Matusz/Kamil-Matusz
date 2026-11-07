@@ -21,26 +21,44 @@ Junior Back-end Developer
 
 ## 🤖 AI & Automation
 
+Coding conventions, security checks and workflow helpers that I package as agent skills, so AI coding agents follow the same rules in every project.
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Skills</h3>
-      <p>Custom skills that extend AI coding agents with project-specific knowledge, automated code review and repeatable development workflows</p>
+      <h3>🧠 Agent Skills</h3>
+      <p>Portable <code>SKILL.md</code> skills for Claude Code, Cursor, Codex and any other agent that reads the format. Install once, reuse everywhere.</p>
       <p>
-        <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude" />
-        <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
+        <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code" />
+        <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" alt="Cursor" />
+        <img src="https://img.shields.io/badge/Codex-412991?style=flat" alt="Codex" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
       </p>
+      <ul>
+        <li><b>☕ Java / Spring</b> - <code>given-when-then-tests</code>, <code>prefer-final-variables</code>, <code>gateway-mapping-check</code> (controller endpoints vs Helm <code>apiGateway</code> mappings)</li>
+        <li><b>🔒 Security</b> - <code>dependency-check</code> (slopsquatting and typosquatting guard for PyPI / npm), <code>skill-audit</code> (vets third-party skills, plugins and MCP servers)</li>
+        <li><b>🧩 Agent context</b> - <code>context-budget</code> (token cost of <code>AGENTS.md</code> / <code>CLAUDE.md</code>), <code>no-em-dash</code></li>
+        <li><b>📚 Knowledge</b> - <code>brain-wiki</code> (Obsidian vault as an LLM Wiki)</li>
+      </ul>
+      <pre><code>npx skills add Kamil-Matusz/skills --list</code></pre>
       <a href="https://github.com/Kamil-Matusz/skills"><img src="https://img.shields.io/badge/Source%20code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 What's inside</h3>
+      <h3>🔌 Claude Code Plugins</h3>
+      <p>Personal Claude Code plugin marketplace: skills grouped into plugins by technology, installed and versioned with <code>/plugin</code>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      </p>
       <ul>
-        <li><b>given-when-then-tests</b> - BDD-style structure for JUnit, Mockito and Spring tests</li>
-        <li><b>prefer-final-variables</b> - applies <code>final</code> where it is safe for Spring, Hibernate and Jackson</li>
-        <li><b>efcore-patterns</b> - EF Core best practices: NoTracking, split queries, migrations</li>
+        <li><b>🌱 spring</b> - BDD-style <code>//given</code> / <code>//when</code> / <code>//then</code> tests and <code>final</code> where it is safe for Hibernate, Jackson and Spring proxies</li>
+        <li><b>⚛️ react</b> - 70 React and Next.js performance rules from Vercel Engineering, prioritized by impact</li>
+        <li><b>🔒 security</b> - <code>skill-audit</code> before installing anything into the agent toolchain</li>
       </ul>
+      <pre><code>/plugin marketplace add Kamil-Matusz/claude-skills</code></pre>
+      <a href="https://github.com/Kamil-Matusz/claude-skills"><img src="https://img.shields.io/badge/Source%20code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
     </td>
   </tr>
 </table>

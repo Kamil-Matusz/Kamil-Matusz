@@ -40,7 +40,6 @@ Coding conventions, security checks and workflow helpers that I package as agent
         <li><b>🧩 Agent context</b> - <code>context-budget</code> (token cost of <code>AGENTS.md</code> / <code>CLAUDE.md</code>), <code>no-em-dash</code></li>
         <li><b>📚 Knowledge</b> - <code>brain-wiki</code> (Obsidian vault as an LLM Wiki)</li>
       </ul>
-      <pre><code>npx skills add Kamil-Matusz/skills --list</code></pre>
       <a href="https://github.com/Kamil-Matusz/skills"><img src="https://img.shields.io/badge/Source%20code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
     </td>
     <td width="50%" valign="top">
@@ -57,7 +56,6 @@ Coding conventions, security checks and workflow helpers that I package as agent
         <li><b>⚛️ react</b> - 70 React and Next.js performance rules from Vercel Engineering, prioritized by impact</li>
         <li><b>🔒 security</b> - <code>skill-audit</code> before installing anything into the agent toolchain</li>
       </ul>
-      <pre><code>/plugin marketplace add Kamil-Matusz/claude-skills</code></pre>
       <a href="https://github.com/Kamil-Matusz/claude-skills"><img src="https://img.shields.io/badge/Source%20code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
     </td>
   </tr>
